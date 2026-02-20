@@ -1,1 +1,2 @@
-NONE
+# No external dependencies required
+
